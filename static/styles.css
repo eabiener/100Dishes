@@ -1,0 +1,38 @@
+input[type=checkbox] {
+  margin: 15px;
+}
+
+
+table{
+  font-size: .87em;
+  text-align: center;
+  margin:.1em;
+  margin-bottom: 25px;
+}
+
+th{
+  color: #66666e;
+  text-align: center;
+}
+
+h1 {
+  text-align:center;
+  padding:5px;
+  color:gray;
+  margin:0px;
+}
+
+h5 {
+  text-align:center;
+  color:gray;
+  padding:25px;
+  margin:0px;
+}
+
+body
+{
+    text-align: center;
+    margin:10px;
+    color:gray;
+    background:#CAF0F8
+}
