@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+
+         <title>Your Results</title>
+         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+         <link href="/static/styles.css" rel="stylesheet">
+    </head>
+    <body>
+
+        <h1> Your Results </h1>
+        <h5> You Selected: {{y}}</h5><br><br>
+
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>Indian</th>
+    </tr>
+{% for key, value in tindian.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>European</th>
+    </tr>
+{% for key, value in teuropean.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>Japanese/Korean</th>
+    </tr>
+{% for key, value in tjkor.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>Chinese</th>
+    </tr>
+{% for key, value in tchinese.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>U.S./Canadian</th>
+    </tr>
+{% for key, value in tuscan.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>MENA</th>
+    </tr>
+{% for key, value in tmena.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>Southeast Asian</th>
+    </tr>
+{% for key, value in tsea.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>Aus/NZ and Pac Islands</th>
+    </tr>
+{% for key, value in tauzpac.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>African</th>
+    </tr>
+{% for key, value in tafr.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+</table>
+
+<table style="float: left", "display: inline-block">
+    <tr>
+    <th>Latin American</th>
+    </tr>
+{% for key, value in tlatam.items() %}
+     <tr>
+
+        <td> {{ value }} </td>
+
+      </tr>
+{% endfor %}
+
+
+</table>
+
+
+
+ <button type="button" class="btn btn-info" onClick="location.href=''">Select other preferences</button>
+
+    </body>
+
+
+
+</html>

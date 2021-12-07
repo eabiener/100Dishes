@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+         <link href="/static/styles.css" rel="stylesheet">
+         <title>100 Dishes</title>
+
+    </head>
+    <body>
+
+     <h1>Select Your Dietary Preferences</h1>
+     <h5>Generate a personalized list of 100 dishes from around the world</h5><br>
+
+        <form action="/results" method="post">
+            <input type = "checkbox" name = "diet[]" id = "vegan" value = "Vegan">
+            <label for = "vegan">Vegan</label>
+            <input type = "checkbox" name = "diet[]" id = "gf" value = "Gluten Free">
+            <label for = "gf">Gluten Free</label>
+            <input type = "checkbox" name = "diet[]" id = "Kosher" value = "Kosher">
+            <label for = "Kosher">Kosher</label><br>
+            <input type = "checkbox" name = "diet[]" id = "Paleo" value = "Paleo">
+            <label for = "Paleo">Paleo</label>
+            <input type = "checkbox" name = "diet[]" id = "No Meat" value = "No Meat">
+            <label for = "No Meat">No Meat</label>
+            <input type = "checkbox" name = "diet[]" id = "No Dairy" value = "No Dairy">
+            <label for = "No Dairy">No Dairy</label><br>
+            <input type = "checkbox" name = "diet[]" id = "Peanut Free" value = "Peanut Free">
+            <label for = "vegan">Peanut Free</label>
+            <input type = "checkbox" name = "diet[]" id = "Tree Nut Free" value = "Tree Nut Free">
+            <label for = "gf">Tree Nut Free</label>
+            <input type = "checkbox" name = "diet[]" id = "No Fish" value = "No Fish">
+            <label for = "Kosher">No Fish</label><br>
+            <input type = "checkbox" name = "diet[]" id = "No Shellfish" value = "No Shellfish">
+            <label for = "Paleo">No Shellfish</label>
+            <input type = "checkbox" name = "diet[]" id = "Egg Free" value = "Egg Free">
+            <label for = "No Meat">Egg Free</label>
+            <input type = "checkbox" name = "diet[]" id = "Soy Free" value = "Soy Free">
+            <label for = "No Dairy">Soy Free</label><br><br>
+            <button class="btn btn-info" type="submit">Submit</button>
+           {{x}}
+        </form>
+        <br>
+        <details>
+            <summary>A Note On Dish Selection</summary>
+            This list is mainly composed of breakfast, lunch, and dinner meals. Condiments and sauces are included, while snacks and desserts are largely excluded. There are no beverages on this list. The dishes, as much as possible, are authentic; that is, they occur naturally in, and are popular in, the region they are from.
+        </details>
+
+        <details>
+            <summary>A Note On Diet Selection</summary>
+            A quick search for diet-specific recipes reveals that almost any food can be paleo-ized, vegan-ized, etc. However, for the purposes of this list, the diet type of a dish is classified according to its relatively natural, widespread use in the region it is from, outside of the group adjusting the recipe to fit a dietary preference or restriction.<br><br>
+
+            For instance, although macaroni and cheese can be made with gluten-free macaroni, or with nut-based milk, since vegan/gluten-free mac and cheese is almost never on the menu of non-vegan or non-gluten-free restaurants, or seen outside of non-vegan or non-gluten-free households, this dish is not classified as vegan or gluten free. However, if a vegan version of the dish were to become popularized, due to, say, a popular cooking show, a large veganism movement, or a cheese shortage, then this dish would be classified as vegan, due to its “natural occurrence in the wild.”<br><br>
+
+            On the other hand, Japanese-style curry is frequently made either with meat or without meat. Therefore, the dish is classified as vegan, even though there are popular non-vegan versions.<br><br>
+
+            That being said, because there is such a wide variety of naturally-occuring versions of a dish, you should still be cautious when ordering some of the dishes on this list. For instance, although pozole is here classified as kosher, it can be made with chicken or pork broth, of which the latter is not kosher. If you are allergic, be especially cautious.<br><br>
+
+            I generally did not include ingredients from side dishes or toppings that accompany a dish, for the reason that someone with that dietary restriction can easily hold that topping or not use the side dish. For instance, shawarma is often served over rice or in a pita wrap, but since the rice and pita can be easily omitted from the preparation and serving of shawarma, the dish is classified as gluten free and paleo. Likewise, nigiri is often dipped in soy sauce, but since one can easily not dip the nigiri in soy sauce, nigiri is classified here as soy free.<br><br>
+
+            Finally, here are the ways I defined certain diets, which might differ from your own:<br><br>
+
+            Vegan: No meat, dairy, fish, egg, or other animal products like honey<br><br>
+
+            Paleo: No grains, including rice; no legumes such as soy or peanuts. No potatoes. Corn allowed.<br><br>
+
+            Kosher: No pork or shellfish, no dishes with meat and dairy products combined<br>
+
+        </details>
+
+        <details>
+            <summary>Dataset Statistics</summary>
+            <b>Total Dishes: 587</b><br>
+            <b>Dishes by Region</b><br>
+            U.S./Canada: 60<br>
+            European: 73<br>
+            Indian: 51<br>
+            Middle Eastern/North African: 54<br>
+            Chinese: 50<br>
+            Southeast Asian: 51<br>
+            Aus/NZ and Pacific Islands: 52<br>
+            Latin American: 59<br>
+            African: 59<br>
+            Japanese/Korean: 78
+
+        </details>
+    </body>
+</html>
