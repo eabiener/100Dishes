@@ -1,0 +1,586 @@
+ID	Dish	Cuisine	Diet
+1	Mole poblano	Latin American	No Meat,No Dairy,Gluten Free,Vegan,Kosher,Contains Tree Nuts,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free
+2	Cashew tofu	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Peanut Free
+3	Acarajé	Latin American	No Dairy,Contains Shellfish,Contains Tree Nuts,Egg Free,No Fish,Soy Free,Peanut Free
+4	Pesto	European	No Meat,Kosher,Gluten Free,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+5	Chocolate mole	Latin American	No Meat,No Dairy,Contains Tree Nuts,Paleo,Gluten Free,Vegan,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+6	Korma	Indian	Gluten Free,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+7	Kibbeh	Middle Eastern/North African	No Dairy,Kosher,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+8	Aji de gallina	Latin American	Contains Tree Nuts,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+9	Chiles en nogada	Latin American	Gluten Free,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+10	Pongal	Indian	No Meat,Kosher,Gluten Free,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+11	Bebek goreng	Aus/NZ and Pacific Islands	No Dairy,Kosher,Paleo,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+12	Gudeg	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Tree Nuts,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free
+13	Pad Thai	Southeast Asian	No Meat,Contains Peanuts,No Dairy,Contains Soy,Contains Egg,Contains Fish,No Shellfish,Tree Nut Free
+14	Siomay	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Contains Fish,Contains Soy,Contains Peanuts,Egg Free,No Shellfish,Tree Nut Free
+15	Gado-gado	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Contains Peanuts,Contains Soy,Contains Egg,No Shellfish,No Fish,Tree Nut Free
+16	Satay	Aus/NZ and Pacific Islands	No Dairy,Gluten Free,Kosher,Contains Soy,Contains Peanuts,Egg Free,No Shellfish,No Fish,Tree Nut Free
+17	Yusheng	Chinese	No Meat,No Dairy,Kosher,Gluten Free,Paleo,Contains Fish,Contains Peanuts,Egg Free,No Shellfish,Soy Free,Tree Nut Free
+18	Ndolé stew	African	No Dairy,Gluten Free,Contains Shellfish,Contains Peanuts,Egg Free,No Fish,Soy Free,Tree Nut Free
+19	Massamun curry	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+20	Groundnut stew	African	No Meat,No Dairy,Gluten Free,Contains Peanuts,Vegan,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+21	Dovi	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+22	Pondu	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+23	Isombe	African	No Dairy,Kosher,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+24	Daraba	African	No Meat,No Dairy,Kosher,Vegan,Contains Peanuts,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+25	Mchicha	African	No Meat,No Dairy,Kosher,Vegan,Contains Peanuts,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+26	Maafe	African	No Dairy,Kosher,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+27	Domoda	African	No Dairy,Kosher,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+28	Sabudana vada	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+29	Nasi pecel	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+30	Karedok	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Peanuts,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+31	Mì quảng	Southeast Asian	No Dairy,Contains Peanuts,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Tree Nut Free
+32	Chawanmushi	Japanese/Korean	No Meat,No Dairy,Contains Fish,Contains Soy,Contains Egg,Contains Shellfish,Peanut Free,Tree Nut Free
+33	Tteokbokki	Japanese/Korean	No Dairy,Contains Fish,Contains Egg,Contains Soy,No Shellfish,Peanut Free,Tree Nut Free
+34	Tonkatsu	Japanese/Korean	No Meat,No Dairy,Contains Fish,Gluten Free,Contains Soy,Kosher,Egg Free,No Shellfish,Peanut Free,Tree Nut Free
+35	Hōtō	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Fish,Contains Soy,Egg Free,No Shellfish,Peanut Free,Tree Nut Free
+36	Miso soup	Japanese/Korean	No Meat,No Dairy,Kosher,Gluten Free,Contains Soy,Contains Fish,Egg Free,No Shellfish,Peanut Free,Tree Nut Free
+37	Kongnamul gukbap	Japanese/Korean	No Dairy,Kosher,Gluten Free,Contains Fish,Contains Soy,Egg Free,No Shellfish,Peanut Free,Tree Nut Free
+38	Chueotang	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Fish,Contains Soy,Egg Free,No Shellfish,Peanut Free,Tree Nut Free
+39	Lotus leaf rice	Chinese	No Dairy,Contains Soy,Contains Shellfish,Egg Free,No Fish,Peanut Free,Tree Nut Free
+40	Gejang	Japanese/Korean	No Dairy,Contains Soy,Contains Shellfish,Egg Free,No Fish,Peanut Free,Tree Nut Free
+41	Pad See Ew	Southeast Asian	No Meat,No Dairy,Contains Soy,Contains Egg,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+42	Zhaliang	Chinese	No Meat,Kosher,Contains Egg,Contains Soy,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+43	Moo shu pork	Chinese	Contains Egg,No Dairy,Contains Peanut,Gluten Free,Contains Soy,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+44	Oyakodon	Japanese/Korean	No Dairy,Kosher,Contains Egg,Contains Soy,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+45	Biang biang noodles	Chinese	No Meat,No Dairy,Vegan,Kosher,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+46	Kimchijeon	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+47	Japchae	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+48	Hoison sauce	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+49	Plum sauce	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+50	Soy sauce	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+51	Chongqing chicken	Chinese	No Dairy,Gluten Free,Contains Soy,Kosher,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+52	Yúxiāng	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+53	Liangfen	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+54	Pepper steak	Chinese	No Dairy,Gluten Free,Kosher,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+55	Hot dry noodles	Chinese	No Meat,No Dairy,Kosher,Vegan,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+56	Rice noodle roll	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+57	Peking duck	Chinese	Contains Soy,No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+58	Mapo tofu	Chinese	No Dairy,Kosher,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+59	Inarizushi	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+60	Nattō	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+61	Teriyaki	Japanese/Korean	No Dairy,Kosher,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+62	Sukiyaki	Japanese/Korean	No Dairy,Kosher,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+63	Boribap	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+64	Budae jjigae	Japanese/Korean	No Dairy,Contains Soy,Gluten Free,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+65	Doenjang jjigae	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Contains Soy,Gluten Free,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+66	Seogogi Muguk	Japanese/Korean	No Dairy,Contains Soy,Gluten Free,Kosher,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+67	Kongguksu	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+68	Bibim guksu	Japanese/Korean	No Dairy,Contains Soy,Kosher,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+69	Janchi guksu	Japanese/Korean	No Dairy,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+70	Gochujang	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+71	Bulgogi	Japanese/Korean	No Dairy,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+72	Adobo	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+73	Dìsānxiān	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+74	Tom Kha Taohu	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+75	Garlic eggplant	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+76	General Tso's tofu	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy,Egg Free,No Shellfish,No Fish,Peanut Free,Tree Nut Free
+77	Moin Moin	African	No Dairy,Gluten Free,Contains Shellfish,Contains Fish,Contains Egg,Soy Free,Peanut Free,Tree Nut Free
+78	Po' Boy	U.S./Canada	Contains Shellfish,Contains Fish,Contains Egg,Soy Free,Peanut Free,Tree Nut Free
+79	Drunken noodles	Southeast Asian	No Meat,No Dairy,Contains Fish,Contains Shellfish,Gluten Free,Egg Free,Soy Free,Peanut Free,Tree Nut Free
+80	Moqueca capixaba	Latin American	No Meat,No Dairy,Gluten Free,Paleo,Contains Fish,Contains Shellfish,Egg Free,Soy Free,Peanut Free,Tree Nut Free
+81	Ceviche	Latin American	No Meat,No Dairy,Contains Fish,Contains Shellfish,Paleo,Gluten Free,Egg Free,Soy Free,Peanut Free,Tree Nut Free
+82	Jalea	Latin American	No Meat,No Dairy,Contains Fish,Contains Shellfish,Egg Free,Soy Free,Peanut Free,Tree Nut Free
+83	Tom yum	Southeast Asian	No Dairy,Gluten Free,Paleo,Contains Fish,Contains Shellfish,Egg Free,Soy Free,Peanut Free,Tree Nut Free
+84	Bún cá sứa	Southeast Asian	No Dairy,Gluten Free,Paleo,Contains Fish,Contains Shellfish,Egg Free,Soy Free,Peanut Free,Tree Nut Free
+85	Mực một nắng	Southeast Asian	No Dairy,Gluten Free,Paleo,Contains Fish,Contains Shellfish,Egg Free,Soy Free,Peanut Free,Tree Nut Free
+86	Saimin	Aus/NZ and Pacific Islands	Contains Egg,Contains Fish,No Dairy,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+87	Brik	Middle Eastern/North African	Contains Egg,Contains Fish,Kosher,No Dairy,No Meat,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+88	Salata Meshwiya	Middle Eastern/North African	No Meat,No Dairy,Kosher,Contains Fish,Contains Egg,Paleo,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+89	Whitebait fritters	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Contains Egg,Contains Fish,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+90	Khai chiao	Southeast Asian	No Meat,No Dairy,Kosher,Contains Egg,Contains Fish,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+91	Pho	Southeast Asian	Gluten Free,No Dairy,Contains Fish,Kosher,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+92	Ponzu	Japanese/Korean	No Meat,No Dairy,Contains Fish,Gluten Free,Kosher,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+93	Worcestershire sauce	European	No Meat,No Dairy,Contains Fish,Gluten Free,Kosher,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+94	Matoke Ngege	African	No Meat,No Dairy,Kosher,Contains Fish,Gluten Free,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+95	Thieboudienne	African	No Meat,No Dairy,Kosher,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+96	Samak mashwi	Middle Eastern/North African	No Dairy,Kosher,Contains Fish,Paleo,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+97	Samak Masguf	Middle Eastern/North African	No Meat,No Dairy,Kosher,Contains Fish,Paleo,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+98	Fish and chips	European	No Meat,No Dairy,Kosher,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+99	Encebollado	Latin American	No Meat,No Dairy,Gluten Free,Paleo,Contains Fish,Kosher,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+100	Fanesca	Latin American	No Meat,No Dairy,Kosher,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+101	Tacos de pescado	Latin American	No Meat,No Dairy,Kosher,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+102	South Indian fish fry	Indian	No Meat,No Dairy,Kosher,Gluten Free,Paleo,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+103	Chankonabe	Japanese/Korean	No Dairy,Kosher,Contains Fish,Gluten Free,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+104	Himono	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+105	Batagor	Aus/NZ and Pacific Islands	No Dairy,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+106	Canh chua	Southeast Asian	No Dairy,Contains Fish,Gluten Free,Paleo,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+107	Sinigang	Aus/NZ and Pacific Islands	No Dairy,Contains Fish,Gluten Free,Kosher,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+108	Pinangat	Aus/NZ and Pacific Islands	No Meat,No Dairy,Contains Fish,Gluten Free,Kosher,Paleo,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+109	Bulalô	Aus/NZ and Pacific Islands	No Dairy,Kosher,Contains Fish,Gluten Free,Paleo,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+110	Pempek	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Contains Fish,Gluten Free,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+111	Chả bò	Southeast Asian	No Dairy,Gluten Free,Paleo,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+112	Cá kho tộ	Southeast Asian	No Dairy,Gluten Free,Paleo,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+113	Nước chấm	Southeast Asian	No Meat,No Dairy,Kosher,Contains Fish,Gluten Free,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+114	Ilish macher paturi	Southeast Asian	No Meat,No Dairy,Kosher,Contains Fish,Egg Free,No Shellfish,Soy Free,Peanut Free,Tree Nut Free
+115	Oyster omelet	Chinese	Contains Shellfish,No Dairy,Contains Egg,No Fish,Soy Free,Peanut Free,Tree Nut Free
+116	Salt and pepper calamari	Chinese	No Dairy,Contains Shellfish,Contains Egg,No Fish,Soy Free,Peanut Free,Tree Nut Free
+117	Laksa	Aus/NZ and Pacific Islands	No Dairy,Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+118	Mie goreng	Aus/NZ and Pacific Islands	Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+119	Panang curry	Southeast Asian	No Meat,No Dairy,Contains Shellfish,Gluten Free,Paleo,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+120	Lobster bisque	European	No Meat,Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+121	Paella	European	No Dairy,Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+122	New England clam chowder	U.S./Canada	Contains Shellfish,No Meat,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+123	Jambalaya	U.S./Canada	No Dairy,Contains Shellfish,Gluten Free,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+124	Gumbo	U.S./Canada	No Dairy,Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+125	Tacos gobernador	Latin American	Contains Shellfish,No Meat,Gluten Free,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+126	Winter melon soup	Chinese	No Dairy,Gluten Free,Paleo,Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+127	Takoyaki	Japanese/Korean	No Dairy,Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+128	Sannakji	Japanese/Korean	No Dairy,Contains Shellfish,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+129	Ayam penyet	Aus/NZ and Pacific Islands	No Dairy,Contains Shellfish,Paleo,Gluten Free,Egg Free,No Fish,Soy Free,Peanut Free,Tree Nut Free
+130	Potato Gnocchi	European	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+131	Dorayaki	Japanese/Korean	No Meat,No Dairy,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+132	Melonpan	Japanese/Korean	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+133	Latke	European	No Meat,No Dairy,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+134	Okonomiyaki	Japanese/Korean	No Meat,No Dairy,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+135	Taftan	Middle Eastern/North African	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+136	Zwieback	European	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+137	Swedish pancake	European	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+138	Spatzle	European	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+139	Ravioli	European	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+140	Fettuccine Alfredo	European	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+141	Kugel	European	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+142	Tartar sauce	European	No Meat,No Dairy,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+143	Hollandaise sauce	European	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+144	Doro wat	African	Gluten Free,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+145	Bobotie	African	Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+146	Hoenderpastei	African	Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+147	Maakouda	Middle Eastern/North African	No Meat,Kosher,Gluten Free,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+148	Shakshouka	Middle Eastern/North African	No Meat,No Dairy,Kosher,Contains Egg,Paleo,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+149	Khinkali	European	No Dairy,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+150	Beef Stroganoff	European	Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+151	Croque-monsieur	European	Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+152	Gratin	European	No Meat,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+153	Khachapuri	European	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+154	Pierogi	European	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+155	Wiener schnitzel	European	No Dairy,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+156	Steak tartare	European	No Dairy,Contains Egg,Gluten Free,Paleo,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+157	Pelmeni	European	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+158	Salisbury steak	U.S./Canada	No Dairy,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+159	Chop suey	U.S./Canada	No Dairy,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+160	Chicken fried steak	U.S./Canada	No Dairy,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+161	Eggs benedict	U.S./Canada	Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+162	Hush puppies	U.S./Canada	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+163	French toast	U.S./Canada	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+164	Waffles	U.S./Canada	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+165	Lasagna	U.S./Canada	No Meat,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+166	Rabanada	Latin American	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+167	Empanada	Latin American	No Meat,No Dairy,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+168	Pastel de choclo	Latin American	No Dairy,Contains Egg,Gluten Free,Paleo,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+169	Tacu-tacu	Latin American	No Meat,No Dairy,Contains Egg,Gluten Free,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+170	Papa rellena	Latin American	No Dairy,Contains Egg,Gluten Free,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+171	Arroz con huevo	Latin American	No Meat,No Dairy,Contains Egg,Gluten Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+172	Pão de queijo	Latin American	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+173	Coxinha	Latin American	Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+174	Huevos rancheros	Latin American	No Meat,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+175	Elote	Latin American	No Meat,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+176	Egg drop soup	Chinese	No Meat,No Dairy,Kosher,Contains Egg,Gluten Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+177	Egg waffle	Chinese	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+178	Egg roll	Chinese	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+179	Lo mein	Chinese	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+180	Jianbing	Chinese	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+181	Youtiao	Chinese	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+182	Tempura	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+183	Katsu	Japanese/Korean	No Dairy,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+184	Tamagoyaki	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Egg,Gluten Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+185	Korokke	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+186	Omurice	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Egg,Gluten Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+187	Gyeran mari	Japanese/Korean	No Meat,No Dairy,Contains Egg,Kosher,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+188	Jeon	Japanese/Korean	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+189	Apam balik	Southeast Asian	No Meat,No Dairy,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+190	Perkedel	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+191	Chili crab	Southeast Asian	No Dairy,Gluten Free,Paleo,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+192	Dagwood dog	Aus/NZ and Pacific Islands	Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+193	Pikelets	Aus/NZ and Pacific Islands	No Meat,Kosher,Contains Egg,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+194	Thịt kho tàu	Southeast Asian	No Dairy,Contains Egg,Gluten Free,Paleo,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+195	Mac and Cheese	U.S./Canada	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+196	Sweet potato Gnocchi	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+197	Ramen	Japanese/Korean	No Meat,No Dairy,Vegan,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+198	Soba	Japanese/Korean	No Meat,No Dairy,Vegan,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+199	Udon	Japanese/Korean	No Meat,No Dairy,Vegan,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+200	Bagel	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+201	Pretzel	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+202	Garlic knots	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+203	Rye bread	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+204	Roti canai	Aus/NZ and Pacific Islands	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+205	Scallion pancake	Chinese	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+206	Soda bread	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+207	Naan	Indian	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+208	Bhatura	Indian	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+209	Baguette	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+210	Banana bread	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+211	Zucchini bread	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+212	Bialy	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+213	Scone	European	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+214	Biscuit	U.S./Canada	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+215	Bolani	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+216	Chapati	Indian	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+217	Cornbread	U.S./Canada	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+218	Dosa	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+219	Uttapam	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+220	Focaccia	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+221	Himbasha	African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+222	Injera	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+223	Johnnycake	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+224	Kulcha	Indian	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+225	Fry Bread	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+226	Langos	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+227	Marraqueta	Latin American	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+228	Papadum	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+229	Paratha	Indian	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+230	Pita	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+231	Pizza	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+232	Sourdough	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+233	Aebleskiver	European	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+234	Blini	European	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+235	Crepe	European	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+236	Msemen	Middle Eastern/North African	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+237	Pancit	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+238	Bánh canh	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+239	Cacio e pepe	European	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+240	Alphabet soup	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+241	Lasagna	European	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+242	Penne alla vodka	European	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+243	Hummus	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+244	Babaganoush	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+245	Sriracha	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+246	Mustard	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+247	Chimichurri	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+248	Gremolata	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+249	Pico de gallo	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+250	Salsa verde	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+251	Harissa	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+252	Amba	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+253	Zhoug	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+254	Ajika	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+255	Toum	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+256	Pebre	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+257	Guacamole	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+258	Marinara sauce	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+259	Mint chutney	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+260	Coconut chutney	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+261	Sambal	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+262	Agrodolce	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+263	Cebolada	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+264	Ketchup	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+265	Tikka masala	Indian	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+266	Saag	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+267	Dopiaza	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+268	Madras	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+269	Rogan josh	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+270	Vindaloo	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+271	Japanese curry	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+272	Thai green curry	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+273	Mango curry	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+274	Thai yellow curry	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+275	Thai red curry	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+276	Goulash	European	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+277	Bunny chow	African	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+278	Sambar	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+279	Jalfrezi	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+280	Egusi soup	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+281	Tatale	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+282	Nkui	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+283	Akkras	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+284	Palaver sauce	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+285	Jolof rice	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+286	Ndizi Na Nyama	African	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+287	Yassa	African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+288	Dioumbre	African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+289	Sosaties	African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+290	Fufu	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+291	Ugali	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+292	Bassi Salte	African	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+293	Misr wat	African	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+294	Atakilt wat	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+295	Koeksisters	African	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+296	Shiro wat	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+297	Azifa	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+298	Gomen	African	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+299	Kik alicha	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+300	Buticha	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+301	Chechebsa	African	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+302	Sambusa	African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+303	Red red stew	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+304	Irio	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+305	Gatsby sandwich	African	No Dairy,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+306	Githeri	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+307	Maharagwe	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+308	Poulet DG	African	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+309	Genfo	African	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+310	Potjiekos	African	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+311	Roosterkoek	African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+312	Cachupa	African	No Dairy,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+313	Tibs	African	Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+314	Chakalaka	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+315	Suya	African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+316	Peri peri chicken	African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+317	Ful medames	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+318	Kafteji	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+319	Loubia	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+320	Matbucha	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+321	Chorba frik	Middle Eastern/North African	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+322	Rechta	Middle Eastern/North African	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+323	Zaalouk	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+324	Taktouka	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+325	Bazin	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+326	Chermoula	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+327	Bessara	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+328	Lablabi	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+329	Baghrir	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+330	Tanjia	Middle Eastern/North African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+331	Mahjouba	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+332	Mulukhiyah	Middle Eastern/North African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+333	Harira	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+334	Shawarma	Middle Eastern/North African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+335	Pastilla	Middle Eastern/North African	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+336	Tagine	Middle Eastern/North African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+337	Falafel	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+338	Couscous	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+339	Merguez	Middle Eastern/North African	No Dairy,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+340	Djej M'Ahmar	Middle Eastern/North African	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+341	Zaytun Meshwi	Middle Eastern/North African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+342	Tabbouleh	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+343	Moutabal	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+344	Labneh	Middle Eastern/North African	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+345	Faisanjan	Middle Eastern/North African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+346	Khoresh Badmejan	Middle Eastern/North African	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+347	Borek	Middle Eastern/North African	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+348	Imam Baylidi	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+349	Simit	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+350	Sarma	Middle Eastern/North African	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+351	Ciabatta	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+352	Raclette	European	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+353	Sauerkraut	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+354	Caprese	European	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+355	Salmorejo	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+356	Bratwurst	European	No Dairy,Paleo,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+357	Migas	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+358	Bacalhau com natas	European	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+359	Parmigiana di melanzane	European	No Meat,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+360	Minestrone	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+361	Greek salad	European	No Meat,Kosher,Paleo,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+362	Ratatouille	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+363	Mititei	European	No Dairy,Paleo,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+364	Borscht	European	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+365	Souvlaki	European	No Dairy,Paleo,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+366	Kasha porridge	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+367	Moussaka	European	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+368	Gyro	European	No Dairy,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+369	Chorizo	European	No Dairy,Paleo,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+370	Quiche	European	No Meat,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+371	Risotto	European	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+372	Hoagie	U.S./Canada	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+373	Grits	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+374	Peanut butter and jelly sandwich	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+375	Fried chicken	U.S./Canada	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+376	Macaroni salad	U.S./Canada	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+377	Ziti	U.S./Canada	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+378	Surf and Turf	U.S./Canada	No Dairy,Paleo,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+379	Deep dish pizza	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+380	Roast beef sandwich	U.S./Canada	No Dairy,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+381	Buffalo wings	U.S./Canada	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+382	Corn on the cob	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+383	Pot pie	U.S./Canada	No Meat,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+384	Onion rings	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+385	Reuben sandwich	U.S./Canada	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+386	BLT sandwich	U.S./Canada	No Dairy,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+387	Chili con carne	U.S./Canada	No Dairy,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+388	Grilled cheese	U.S./Canada	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+389	Fajitas	U.S./Canada	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+390	Hamburger	U.S./Canada	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+391	Hash browns	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+392	Cipaille	U.S./Canada	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+393	Pâté chinois	U.S./Canada	Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+394	Succotash	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+395	Tofu scramble	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+396	Sloppy Joe	U.S./Canada	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+397	Lentil soup	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+398	Fluffernutter sandwich	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+399	Avocado toast	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+400	Mofongo	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+401	Pernil	Latin American	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+402	Pabellon criollo	Latin American	No Dairy,Gluten Free,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+403	Picante de pollo	Latin American	No Dairy,Paleo,Gluten Free,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+404	Pirão	Latin American	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+405	Arrumadinho	Latin American	No Dairy,Gluten Free,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+406	Arroz con coco	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+407	Vaca atolada	Latin American	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+408	Fugazza	Latin American	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+409	Cazuela	Latin American	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+410	Tamale	Latin American	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+411	Canjica	Latin American	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+412	Escondidinho	Latin American	Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+413	Kivevé	Latin American	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+414	Farofa	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+415	Butifarra	Latin American	No Dairy,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+416	Arepa	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+417	Feijoada	Latin American	No Dairy,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+418	Pozole	Latin American	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+419	Pupusa	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+420	Pipian	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+421	Sopa de lima	Latin American	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+422	Sopa de tortilla	Latin American	No Meat,Gluten Free,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+423	Sopes	Latin American	Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+424	Bionico	Latin American	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+425	Caldo de queso	Latin American	No Meat,Gluten Free,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+426	Chilaquiles	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+427	Esquites	Latin American	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+428	Birria	Latin American	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+429	Enchilada	Latin American	Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+430	Patrode	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+431	Curd rice	Indian	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+432	Aloo gobi	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+433	Pitha	Indian	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+434	Biryani	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+435	Medu vada	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+436	Avial	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+437	Paneer tikka	Indian	No Meat,Gluten Free,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+438	Dal tadka	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+439	Dal makhani	Indian	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+440	Mattar paneer	Indian	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+441	Dhokla	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+442	Chole bhature	Indian	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+443	Malai kofta	Indian	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+444	Samosa chaat	Indian	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+445	Raita	Indian	No Meat,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+446	Rasam	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+447	Pakora	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+448	Chicken 65	Indian	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+449	Nihari	Indian	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+450	Keema	Indian	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+451	Appam	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+452	Pulihora	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+453	Upma	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+454	Vada pav	Indian	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+455	Tandoori	Indian	Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+456	Coconut curry	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+457	Baingan bharta	Indian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+458	Suān cài	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+459	Momos	Chinese	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+460	Zhangcha duck	Chinese	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+461	Xiao long bao	Chinese	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+462	Popiah	Chinese	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+463	Mantou	Chinese	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+464	Yi Mien	Chinese	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+465	Mala sauce	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+466	Fried rice	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+467	Shaobing	Chinese	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+468	Baozi	Chinese	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+469	Kiritanpo	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+470	Senbei	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+471	Tsukemono	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+472	Karaage	Japanese/Korean	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+473	Nigiri	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+474	Shabu-shabu	Japanese/Korean	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+475	Gyoza	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+476	Onigiri	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+477	Tteokguk	Japanese/Korean	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+478	Hwajeon	Japanese/Korean	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+479	Gamjajeon	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+480	Ogokbap	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+481	Andong jjimdak	Japanese/Korean	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+482	Tteokgalbi	Japanese/Korean	No Dairy,Kosher,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+483	Milmyeon	Japanese/Korean	No Dairy,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+484	Nurungji	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+485	Kimchi bokkeumbap	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+486	Kongnamul muchim	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+487	Seolleongtang	Japanese/Korean	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+488	Gim gui	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+489	Hotteok	Japanese/Korean	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+490	Bossam	Japanese/Korean	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+491	Kimchi	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+492	Injeolmi	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+493	Kalbi	Japanese/Korean	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+494	Bibimbap	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+495	Cireng	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+496	Kari ayam	Southeast Asian	No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+497	Serabi	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+498	Lumpia	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+499	Sayur asem	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+500	Nasi uduk	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+501	Nasi kuning	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+502	Nasi lemak	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+503	Bánh xèo	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+504	Som tam	Southeast Asian	No Meat,No Dairy,Kosher,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+505	Sisig	Aus/NZ and Pacific Islands	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+506	Acar	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+507	Rendang	Aus/NZ and Pacific Islands	No Dairy,Kosher,Paleo,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+508	Bánh mì	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+509	Emu	Aus/NZ and Pacific Islands	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+510	Kangaroo	Aus/NZ and Pacific Islands	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+511	Crocodile	Aus/NZ and Pacific Islands	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+512	Vegemite on toast	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+513	Damper	Aus/NZ and Pacific Islands	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+514	Karengo	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+515	Marmite and chip sandwich	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+516	Pork and puha	Aus/NZ and Pacific Islands	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+517	Possum stew	Aus/NZ and Pacific Islands	No Dairy,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+518	Rewena	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+519	Cheese roll	Aus/NZ and Pacific Islands	No Meat,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+520	Dưa hành	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+521	Cốm	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+522	Chuối chiên	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+523	Bánh căn	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+524	Cơm lam	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+525	Cơm chiên	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+526	Summer roll	Southeast Asian	No Dairy,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+527	Bò lá lốt	Southeast Asian	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+528	Xôi	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+529	Luk chin ping	Southeast Asian	No Dairy,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+530	Khanom chin	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+531	Phat phrik	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+532	Khao mok gai	Southeast Asian	No Dairy,Gluten Free,Paleo,Kosher,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+533	Khao soi	Southeast Asian	No Dairy,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+534	Chotpoti	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+535	Beguni	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+536	Bhorta	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+537	Kuru fasulye	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+538	Gemista	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+539	Çiğ köfte	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+540	Caponata	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+541	Kseksu Bidawi	Middle Eastern/North African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+542	Lavash	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+543	Gallo Pinto	Latin American	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+544	Karedok	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+545	Lalab	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+546	Rujak	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+547	Urap	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+548	Kuluban	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+549	Poi	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+550	Breadfruit paste	Aus/NZ and Pacific Islands	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+551	Pao cai	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+552	Wood Ear Mushrooms	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+553	Sesame oil	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+554	Lychee jam	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+555	Dried goji berries	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+556	Grass jelly	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+557	Tanghulu	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+558	Five-spice powder	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+559	Sichuan peppercorn	Chinese	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+560	Lyutika	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+561	Glasswort salad	European	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+562	Bok lahong	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+563	Mallung	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+564	Som Tam	Southeast Asian	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+565	Oi muchim	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+566	Oi Bokkeum	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+567	Watercress Namul	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+568	Mu Namul	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+569	Sesame Broccoli	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+570	Morkovcha	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+571	Goma-ae	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+572	Wasabi	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+573	Umeboshi	Japanese/Korean	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+574	Kachumbari	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+575	Lasary voatabia	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+576	Chibwabwa	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+577	Gari foto	African	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+578	Coleslaw	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+579	Fruit salad	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+580	Garden salad	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+581	Carrot raisin salad	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+582	Liquid smoke	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+583	Cranberry sauce	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+584	Pepper jelly	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free
+585	Maple syrup	U.S./Canada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo,Egg Free,No Shellfish,No Fish,Soy Free,Peanut Free,Tree Nut Free

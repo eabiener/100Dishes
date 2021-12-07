@@ -1,0 +1,116 @@
+ID	Dish	Cuisine	Link	Diet
+1	Mac and Cheese	U.S./Canada	Google Search Mac and Cheese	No Meat,Kosher
+2	Potato Gnocchi	European	Google Search Potato Gnocchi	No Meat,Kosher,Contains Egg
+3	Sweet potato Gnocchi	European	Google Search Sweet potato Gnocchi	No Meat,No Dairy,Kosher,Vegan
+4	Ramen	Japanese/Korean	Google Search Ramen	No Meat,No Dairy,Vegan,Kosher
+5	Soba	Japanese/Korean	Google Search Soba	No Meat,No Dairy,Vegan,Kosher
+6	Udon	Japanese/Korean	Google Search Udon	No Meat,No Dairy,Vegan,Kosher
+7	Pad Thai	Southeast Asian	Google Search Pad Thai	No Meat,Contains Peanuts,No Dairy,Contains Soy,Contains Egg,Contains Fish
+8	Pad See Ew	Southeast Asian	Google Search Pad See Ew	No Meat,No Dairy,Contains Soy,Contains Egg
+9	Biang biang noodles	Chinese	Google Search Biang biang noodles	No Meat,No Dairy,Vegan,Kosher,Contains Soy
+10	Bagel	U.S./Canada	Google Search Bagel	No Meat,No Dairy,Kosher,Vegan
+11	Pretzel	European	Google Search Pretzel	No Meat,No Dairy,Kosher,Vegan
+12	Garlic knots	European	Google Search Garlic knots	No Meat,No Dairy,Kosher,Vegan
+13	Rye bread	European	Google Search Rye bread	No Meat,No Dairy,Kosher,Vegan
+14	Roti canai	Aus/NZ and Pacific Islands	Google Search Roti canai	No Meat,Kosher
+15	Scallion pancake	Chinese	Google Search Scallion pancake	No Meat,No Dairy,Kosher,Vegan
+16	Soda bread	European	Google Search Soda bread	No Meat,No Dairy,Kosher,Vegan
+17	Naan	Indian	Google Search Naan	No Meat,Kosher
+18	Bhatura	Indian	Google Search Bhatura	No Meat,Kosher
+19	Baguette	European	Google Search Baguette	No Meat,No Dairy,Kosher,Vegan
+20	Banana bread	U.S./Canada	Google Search Banana bread	No Meat,No Dairy,Kosher,Vegan
+21	Zucchini bread	U.S./Canada	Google Search Zucchini bread	No Meat,No Dairy,Kosher,Vegan
+22	Bialy	European	Google Search Bialy	No Meat,No Dairy,Kosher,Vegan
+23	Scone	European	Google Search Scone	No Meat,Kosher
+24	Biscuit	U.S./Canada	Google Search Biscuit	No Meat,Kosher
+25	Bolani	Middle Eastern/North African	Google Search Bolani	No Meat,No Dairy,Kosher,Vegan
+26	Chapati	Indian	Google Search Chapati	No Meat,No Dairy,Kosher,Vegan
+27	Cornbread	U.S./Canada	Google Search Cornbread	No Meat,Kosher
+28	Dorayaki	Japanese/Korean	Google Search Dorayaki	No Meat,No Dairy,Contains Egg,Kosher
+29	Dosa	Indian	Google Search Dosa	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+30	Uttapam	Indian	Google Search Uttapam	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+31	Focaccia	European	Google Search Focaccia	No Meat,No Dairy,Kosher,Vegan
+32	Himbasha	African	Google Search Himbasha	No Meat,No Dairy,Kosher,Vegan
+33	Injera	African	Google Search Injera	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+34	Johnnycake	U.S./Canada	Google Search Johnnycake	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+35	Kulcha	Indian	Google Search Kulcha	No Meat,No Dairy,Kosher,Vegan
+36	Fry Bread	U.S./Canada	Google Search Fry Bread	No Meat,No Dairy,Kosher,Vegan
+37	Langos	European	Google Search Langos	No Meat,No Dairy,Kosher,Vegan
+38	Marraqueta	Latin American	Google Search Marraqueta	No Meat,No Dairy,Kosher,Vegan
+39	Melonpan	Japanese/Korean	Google Search Melonpan	No Meat,Kosher,Contains Egg
+40	Papadum	Indian	Google Search Papadum	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+41	Paratha	Indian	Google Search Paratha	No Meat,Kosher
+42	Pita	Middle Eastern/North African	Google Search Pita	No Meat,No Dairy,Kosher,Vegan
+43	Pizza	U.S./Canada	Google Search Pizza	No Meat,No Dairy,Kosher,Vegan
+44	Latke	European	Google Search Latke	No Meat,No Dairy,Contains Egg,Kosher
+45	Okonomiyaki	Japanese/Korean	Google Search Okonomiyaki	No Meat,No Dairy,Contains Egg,Kosher
+46	Sourdough	U.S./Canada	Google Search Sourdough	No Meat,No Dairy,Kosher,Vegan
+47	Taftan	Middle Eastern/North African	Google Search Taftan	No Meat,Contains Egg,Kosher
+48	Zwieback	European	Google Search Zwieback	No Meat,Contains Egg,Kosher
+49	Aebleskiver	European	Google Search Aebleskiver	No Meat,Kosher
+50	Blini	European	Google Search Blini	No Meat,Kosher
+51	Crepe	European	Google Search Crepe	No Meat,Kosher
+52	Kimchijeon	Japanese/Korean	Google Search Kimchijeon	No Meat,No Dairy,Kosher,Vegan,Contains Soy
+53	Msemen	Middle Eastern/North African	Google Search Msemen	No Meat,Kosher
+54	Swedish pancake	European	Google Search Swedish pancake	No Meat,Contains Egg,Kosher
+55	Spatzle	European	Google Search Spatzle	No Meat,Contains Egg,Kosher
+56	Laksa	Aus/NZ and Pacific Islands	Google Search Laksa	No Dairy,Contains Shellfish
+57	Pho	Southeast Asian	Google Search Pho	Gluten Free,No Dairy,Contains Fish,Kosher
+58	Pancit	Aus/NZ and Pacific Islands	Google Search Pancit	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+59	Japchae	Japanese/Korean	Google Search Japchae	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy
+60	Drunken noodles	Southeast Asian	Google Search Drunken noodles	No Meat,No Dairy,Contains Fish,Contains Shellfish,Gluten Free
+61	Mie goreng	Aus/NZ and Pacific Islands	Google Search Mie goreng	Contains Shellfish
+62	Saimin	Aus/NZ and Pacific Islands	Google Search Saimin	Contains Egg,Contains Fish,No Dairy
+63	Bánh canh	Southeast Asian	Google Search Bánh canh	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+64	Ravioli	European	Google Search Ravioli	No Meat,No Dairy,Kosher,Contains Egg
+65	Fettuccine Alfredo	European	Google Search Fettuccine Alfredo	No Meat,Kosher,Contains Egg
+66	Cacio e pepe	European	Google Search Cacio e pepe	No Meat,Kosher
+67	Alphabet soup	U.S./Canada	Google Search Alphabet soup	No Meat,No Dairy,Kosher,Vegan
+68	Lasagna	European	Google Search Lasagna	
+69	Kugel	European	Google Search Kugel	No Meat,Contains Egg,Kosher
+70	Penne alla vodka	European	Google Search Penne alla vodka	No Meat,Kosher
+71	Pesto	European	Google Search Pesto	No Meat,Kosher,Gluten Free,Contains Tree Nuts
+72	Hummus	Middle Eastern/North African	Google Search Hummus	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+73	Babaganoush	Middle Eastern/North African	Google Search Babaganoush	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+74	Sriracha	Southeast Asian	Google Search Sriracha	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+75	Tartar sauce	European	Google Search Tartar sauce	No Meat,No Dairy,Contains Egg,Kosher
+76	Hollandaise sauce	European	Google Search Hollandaise sauce	No Meat,Contains Egg,Kosher
+77	Mustard	European	Google Search Mustard	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+78	Chimichurri	Latin American	Google Search Chimichurri	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+79	Gremolata	European	Google Search Gremolata	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+80	Pico de gallo	Latin American	Google Search Pico de gallo	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+81	Salsa verde	Latin American	Google Search Salsa verde	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+82	Harissa	Middle Eastern/North African	Google Search Harissa	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+83	Amba	Middle Eastern/North African	Google Search Amba	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+84	Zhoug	Middle Eastern/North African	Google Search Zhoug	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+85	Hoison sauce	Chinese	Google Search Hoison sauce	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy
+86	Plum sauce	Chinese	Google Search Plum sauce	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy
+87	Soy sauce	Chinese	Google Search Soy sauce	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Soy
+88	Ajika	European	Google Search Ajika	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+89	Toum	Middle Eastern/North African	Google Search Toum	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+90	Pebre	Latin American	Google Search Pebre	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+91	Guacamole	Latin American	Google Search Guacamole	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+92	Marinara sauce	European	Google Search Marinara sauce	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+93	Mint chutney	Indian	Google Search Mint chutney	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+94	Coconut chutney	Indian	Google Search Coconut chutney	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+95	Sambal	Aus/NZ and Pacific Islands	Google Search Sambal	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+96	Agrodolce	European	Google Search Agrodolce	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+97	Ponzu	Japanese/Korean	Google Search Ponzu	No Meat,No Dairy,Contains Fish,Gluten Free,Kosher
+98	Tonkatsu	Japanese/Korean	Google Search Tonkatsu	No Meat,No Dairy,Contains Fish,Gluten Free,Contains Soy,Kosher
+99	Chocolate mole	Latin American	Google Search Chocolate mole	No Meat,No Dairy,Contains Tree Nuts,Paleo,Gluten Free,Vegan,Kosher
+100	Cebolada	European	Google Search Cebolada	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+101	Worcestershire sauce	European	Google Search Worcestershire sauce	No Meat,No Dairy,Contains Fish,Gluten Free,Kosher
+102	Ketchup	U.S./Canada	Google Search Ketchup	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+103	Tikka masala	Indian	Google Search Tikka masala	No Meat,Kosher,Gluten Free
+104	Saag	Indian	Google Search Saag	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+105	Dopiaza	Indian	Google Search Dopiaza	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+106	Madras	Indian	Google Search Madras	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+107	Rogan josh	Indian	Google Search Rogan josh	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+108	Vindaloo	Indian	Google Search Vindaloo	No Meat,No Dairy,Kosher,Vegan,Gluten Free
+109	Japanese curry	Japanese/Korean	Google Search Japanese curry	No Meat,No Dairy,Kosher,Vegan
+110	Thai green curry	Southeast Asian	Google Search Thai green curry	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+111	Massamun curry	Southeast Asian	Google Search Massamun curry	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Contains Peanuts
+112	Panang curry	Southeast Asian	Google Search Panang curry	No Meat,No Dairy,Contains Shellfish,Gluten Free,Paleo
+113	Mango curry	Indian	Google Search Mango curry	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+114	Thai yellow curry	Southeast Asian	Google Search Thai yellow curry	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo
+115	Thai red curry	Southeast Asian	Google Search Thai red curry	No Meat,No Dairy,Kosher,Vegan,Gluten Free,Paleo

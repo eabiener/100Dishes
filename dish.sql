@@ -1,0 +1,1 @@
+INSERT INTO meals (id, dish, cuisine), VALUES (?,?,?), "Poisson Cru", "586", "Aus/NZ and Pacific Islands"
