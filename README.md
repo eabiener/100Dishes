@@ -4,7 +4,7 @@ The list is curated based on user's input of their dietary preferences
 
 The list is regionally balanced
 
-In a webpage, users are presented with a checklist of dietary preferences; for instance, vegan, gluten-free, kosher, soy allergy.
+In a webpage, users are presented with a checklist of dietary preferences; for instance, vegan, gluten-free, kosher, or soy allergy.
     On the homepage, I have included an explanation for how I selected the dishes and classified them by dietary preference, as well as some statistics about the dataset
     
 After selecting their dietary preferences, users click a submit button to generate their list
